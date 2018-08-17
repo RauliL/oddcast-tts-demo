@@ -1,0 +1,15 @@
+{
+  "name": "oddcast-tts-demo",
+  "version": "1.0.0",
+  "description": "Text-to-speech using oddcast.com's TTS demo.",
+  "main": "./lib/index.js",
+  "author": "Rauli Laine <rauli.laine@iki.fi>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "dependencies": {
+    "build-url": "^1.1.2",
+    "md5": "^2.2.1"
+  }
+}

@@ -1,10 +1,19 @@
 {
   "name": "oddcast-tts-demo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Text-to-speech using oddcast.com's TTS demo.",
   "main": "./lib/index.js",
+  "types": "./index.d.ts",
   "author": "Rauli Laine <rauli.laine@iki.fi>",
+  "homepage": "https://github.com/RauliL/oddcast-tts-demo",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RauliL/oddcast-tts-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RauliL/oddcast-tts-demo/issues"
+  },
   "engines": {
     "node": ">=8.0.0"
   },
